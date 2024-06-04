@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HI KAVISH IF YOU ARE SEEING THIS, I JUST WANTED TO LET YOU KNOW THAT YOU ARE PRETTY COOL"
+title: "TITLE"
 author_profile: true
 redirect_from: 
   - /about/
