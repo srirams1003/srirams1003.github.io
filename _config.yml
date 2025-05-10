@@ -21,7 +21,7 @@ repository               : "srirams1003/srirams1003.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Sriram Suresh"
   pronouns         : # example: "she/her"  
   bio              : "2nd Year Master's Student Majoring in Computer Science at Texas A&M University"
